@@ -1,0 +1,30 @@
+.section-tomates{
+  background-color: $granite;
+}
+
+
+.section-tomates-tomates{
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+  padding-top: 3rem;
+}
+
+.section-tomates-organicos{
+  color: $white;
+  text-align: center;
+  padding-top: 2rem;
+  font-weight: 700;
+  font-size: $large;
+}
+
+.section-tomates-parrafo{
+  color: $white;
+  text-align: center;
+  padding-top: 2rem;
+  font-weight: 300;
+  font-size: $medium;
+  width: 50%;
+  font-family: $raleway;
+  margin-bottom: 2rem;
+}
